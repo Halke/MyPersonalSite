@@ -1,0 +1,139 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+hr{
+    border-style: dotted none none none;
+    border-color: #fce38a;
+    border-width: 10px;
+    width: 5%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+h1{
+    margin: 100px auto 0px auto;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+
+h2{
+    font-size: 2.5rem;
+}
+
+h2, h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+
+h3, a{
+    color: #11999E;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.topContainer{
+    background: #eaf6f6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.mountain-img{
+    margin-top: 150px;
+}
+
+.topContainer h2{
+    font-weight: normal;
+}
+
+.topCloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.profile{
+    width: 70%;
+    margin: 15px auto 15px auto;
+}
+
+.profile img{
+    border-radius: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-row img{
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+.code-img{
+    float: left;
+    margin-right: 30px;
+    width: 200px;
+    height: 144px;
+}
+
+.chilli-img{
+    float: right;
+    margin-left: 30px;
+}
+
+.bottomCloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.bottom-container{
+    height: 200px;
+    text-align: center;
+    background-color: #66bfbf;
+    
+}
+
+.bottom-container a{
+    color: #11999e;
+    font-size: 2rem;
+    display: inline-block;
+    margin-top: 75px;
+    padding: 15px; 
+}
+
+.bottom-container p{
+    color: #eaf6f6;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.contact-me{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.contact-btn{
+    background-color: #11999e;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+
